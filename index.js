@@ -11,4 +11,4 @@ client.on('message', (message ) =>{
 
         message.channel.send('ORA ATTUALE :alarm_clock: :' + ora + ':' + minuti)
     }
-});
+}); 
